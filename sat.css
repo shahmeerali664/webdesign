@@ -1,0 +1,37 @@
+.container{
+    background-color: rgb(186, 196, 218);
+     
+    
+}
+.row{
+    color: black;
+    
+}
+.p2{
+    margin: 10px ;
+}
+.g{
+   width: 450px;
+   height: 450px; 
+}
+.glyphicon{
+    display: block; 
+  text-align: flex; 
+  padding: 16px; 
+  color: black; 
+  font-size: 36px; 
+}
+.glyphicon-envelope{
+    display: block; 
+  text-align:  flex center ;  
+  color: black; 
+  font-size: 36px; 
+}
+.mybtn{
+  background-color: greenyellow;
+}
+.mybtm{
+  background-color: greenyellow;
+}    
+
+  
